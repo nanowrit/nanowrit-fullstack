@@ -1,0 +1,3 @@
+[submodule "nanowritlabs-app-client"]
+	path = nanowritlabs-app-client
+	url = ./nanowritlabs-app-client
